@@ -30,14 +30,11 @@ Blist: https://blisk.io/
   >- 修改本地repo库: 例如在安装目录 ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句```<localRepository>E:\maven_repo</localRepository>```
   >- 修改远程repo库: 例如在安装目录 ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句
   
-  ```
-    <mirror>
+  <mirror>
         <id>nexus-aliyun</id>
         <mirrorOf>*</mirrorOf>
         <name>Nexus aliyun</name>
         <url>http://maven.aliyun.com/nexus/content/groups/public</url>
     </mirror>
-  ```
-
     
 - SqlLiteexpert: http://www.sqliteexpert.com/download.html
