@@ -29,6 +29,7 @@ Blist: https://blisk.io/
   >- 需要配置MAVEN-HOME(安装目录)和PATH(安装目录\bin)两个环境变量
   >- 修改本地repo库: 例如在安装目录 ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句```<localRepository>E:\maven_repo</localRepository>```
   >- 修改远程repo库: 例如在安装目录 ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句
+  
   ```
   <mirror>
       <id>nexus-aliyun</id>
