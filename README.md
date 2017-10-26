@@ -20,18 +20,21 @@ Adobe source-code-pro: https://github.com/adobe-fonts/source-code-pro/releases/t
 Blist: https://blisk.io/
 >基于Chromium的网站开发浏览器,可实现桌面及移动端的实时页面预览.  
 ### 开发工具
+开发工具
 - JDK: 
-
   >- 需要配置JAVA-HOME(安装目录),PATH(jdk的bin目录)和CLASSPATH(jre的lib目录)三个环境变量
 - IDEA: https://www.jetbrains.com/idea/download
 - MySql: https://dev.mysql.com/downloads/windows/
 - Maven: http://maven.apache.org/download.cgi 
   >- 需要配置MAVEN-HOME(安装目录)和PATH(安装目录\bin)两个环境变量
-   - 修改本地repo库: 例如在安装目录```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句   ```<localRepository>E:\maven_repo</localRepository>```  
-  - 修改远程repo库: 例如在安装目录```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句 ```<mirror>
+   - 修改本地repo库: 例如在安装目录 ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句   ```<localRepository>E:\maven_repo</localRepository>```  
+  - 修改远程repo库: 例如在安装目录
+  
+  ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句 ```<mirror>
         <id>nexus-aliyun</id>
         <mirrorOf>*</mirrorOf>
         <name>Nexus aliyun</name>
         <url>http://maven.aliyun.com/nexus/content/groups/public</url>
     </mirror> ```
+    
 - SqlLiteexpert: http://www.sqliteexpert.com/download.html
