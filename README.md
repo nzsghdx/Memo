@@ -6,8 +6,8 @@ This is a memorandum.
 QQ拼音: 
 
 ## 下载工具
-PDM: https://github.com/persepolisdm/persepolis/releases  
-Aira2: https://github.com/aria2/aria2/releases  
+PDM: https://github.com/persepolisdm/persepolis/releases    
+Aira2: https://github.com/aria2/aria2/releases    
 迅雷: 
 
 ## 字体
@@ -26,12 +26,11 @@ Blist: https://blisk.io/
 - IDEA: https://www.jetbrains.com/idea/download  
 - MySql: https://dev.mysql.com/downloads/windows/  
 - Maven: http://maven.apache.org/download.cgi 
-
-    >- 需要配置MAVEN-HOME(安装目录)和PATH(安装目录\bin)两个环境变量  
-    >- 修改本地repo库: 例如在安装目录 ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句   
+  >- 需要配置MAVEN-HOME(安装目录)和PATH(安装目录\bin)两个环境变量  
+  >- 修改本地repo库: 例如在安装目录 ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句   
      ```<localRepository>E:\maven_repo</localRepository>```   
      
-    >- 修改远程repo库: 例如在安装目录 ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句 
+  >- 修改远程repo库: 例如在安装目录 ```E:\apache-maven-3.5.2\conf\setting.xml```中新增如下语句 
   
         ```
         <mirror>
