@@ -2,7 +2,7 @@
 This is a memorandum.
 
 ## 输入法
-微软拼音输入法下载地址：https://www.microsoft.com/zh-cn/download/details.aspx?id=28969
+微软拼音输入法下载地址：https://www.microsoft.com/zh-cn/download/details.aspx?id=28969  
 QQ拼音: 
 
 ## 下载工具
@@ -21,7 +21,7 @@ Blist: https://blisk.io/
 >基于Chromium的网站开发浏览器,可实现桌面及移动端的实时页面预览.  
 ### 开发工具
 - JDK: 
-  >- 需要配置JAVA-HOME(安装目录),PATH(jdk的bin目录)和CLASSPATH(jre的lib目录)三个环境变量
+   >- 需要配置JAVA-HOME(安装目录),PATH(jdk的bin目录)和CLASSPATH(jre的lib目录)三个环境变量
 - IDEA: https://www.jetbrains.com/idea/download
 - MySql: https://dev.mysql.com/downloads/windows/
 - Maven: http://maven.apache.org/download.cgi 
