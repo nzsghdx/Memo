@@ -8,8 +8,8 @@ QQ拼音:
 ## 下载工具
 IDM: http://www.internetdownloadmanager.com/download.html  
 >下载百度云盘资源的时候需要配合软件使用  
-  - 脚本管理软件: Tampermonkey: 360极速和chrome可在应用市场直接搜索下载使用  
-  - 脚本软件: http://t.cn/Rq5TDh1
+   - 脚本管理软件: Tampermonkey: 360极速和chrome可在应用市场直接搜索下载使用  
+   - 脚本软件: http://t.cn/Rq5TDh1  
 PDM: https://github.com/persepolisdm/persepolis/releases    
 Aira2: https://github.com/aria2/aria2/releases    
 迅雷: 上述方法无法使用或者速度堪忧的情况下考虑迅雷.
