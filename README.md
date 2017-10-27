@@ -6,9 +6,13 @@ This is a memorandum.
 QQ拼音: 
 
 ## 下载工具
-PDM: https://github.com/persepolisdm/persepolis/releases    
-Aira2: https://github.com/aria2/aria2/releases    
-迅雷: 
+IDM: http://www.internetdownloadmanager.com/download.html  
+>下载百度云盘资源的时候需要配合软件使用
+  - 脚本管理软件: Tampermonkey: 360极速和chrome可在应用市场直接搜索下载使用  
+  - 脚本软件: http://t.cn/Rq5TDh1
+PDM: https://github.com/persepolisdm/persepolis/releases    
+Aira2: https://github.com/aria2/aria2/releases    
+迅雷: 上述方法无法使用或者速度堪忧的情况下考虑迅雷.
 
 ## 字体
 Adobe source-code-pro: https://github.com/adobe-fonts/source-code-pro/releases/tag/variable-fonts
@@ -20,7 +24,6 @@ Adobe source-code-pro: https://github.com/adobe-fonts/source-code-pro/releases/t
 Blist: https://blisk.io/
 >基于Chromium的网站开发浏览器,可实现桌面及移动端的实时页面预览.  
 ### 开发工具
-
 - JDK: http://www.oracle.com/technetwork/java/javase/downloads/index.html  
   >- 需要配置JAVA-HOME(安装目录),PATH(jdk的bin目录)和CLASSPATH(jre的lib目录)三个环境变量  
 - IDEA: https://www.jetbrains.com/idea/download  
