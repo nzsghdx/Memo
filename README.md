@@ -55,3 +55,9 @@ Blist: https://blisk.io/
         </mirror>
     
 - SqlLiteexpert: http://www.sqliteexpert.com/download.html
+- git:
+- node:
+- npm:
+    <更改npm远程库: http://npm.taobao.org/
+    
+    
