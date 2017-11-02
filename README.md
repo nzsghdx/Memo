@@ -17,7 +17,12 @@ QQ拼音:
 
 ## 字体
 Adobe source-code-pro: https://github.com/adobe-fonts/source-code-pro/releases/tag/variable-fonts
->win10下字体安装失败(提示不是有效的字体文件,搜索到的各种解决办法对win10无效)微软中国官方暂时没有给出有效的解决办法
+>win10下字体安装失败(提示不是有效的字体文件,搜索到的各种解决办法对win10无效)微软中国官方暂时没有给出有效的解决办法  
+微软雅黑: Microsoft YaHei
+>中文编程字体
+consolas:  Consolas
+>英文编程字体
+
 
 ## 搜索
 EveryThing: http://www.voidtools.com/downloads/ 
@@ -35,7 +40,13 @@ snagit: https://www.techsmith.com/download/snagit/
 ### 前端
 #### 浏览器
 Blist: https://blisk.io/
->基于Chromium的网站开发浏览器,可实现桌面及移动端的实时页面预览.
+>基于Chromium的网站开发浏览器,可实现桌面及移动端的实时页面预览.  
+Chrome:   
+>- 扩展
+    - 夜间模式:Dark Reader
+    - Vue开发工具:Vue.js devtools
+    - 翻译扩展:划词翻译
+    - 暗黑主题:
 
 ### 开发工具
 - JDK: http://www.oracle.com/technetwork/java/javase/downloads/index.html  
