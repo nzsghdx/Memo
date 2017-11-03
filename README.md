@@ -18,6 +18,7 @@ QQ拼音:
 ## 字体
 Adobe source-code-pro: https://github.com/adobe-fonts/source-code-pro/releases/tag/variable-fonts
 >win10下字体安装失败(提示不是有效的字体文件,搜索到的各种解决办法对win10无效)微软中国官方暂时没有给出有效的解决办法  
+>These .otf fonts CANNOT be installed on Windows or macOS systems because the OSes do not currently support the OpenType-CFF2 format. Install the latest non-variable fonts instead.
 微软雅黑: Microsoft YaHei
 >中文编程字体
 consolas:  Consolas
